@@ -9,10 +9,10 @@ const USER_CONFIG = {
   // 请将以下代码按照图示粘贴到对应位置
   USE_PASSAGE: 'push-deer',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wxa6138dcfcc70f412',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: 'a97fdfbee9de80e5757143f34d4f92ae',
 
   PROVINCE: '北京',
   CITY: '西城区',
@@ -24,7 +24,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'PDU21333T87UM6k3UvolhHvl3z9w7e85ha8ZLPDzS',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId: 'ZLpTePp3KrLPJKVn2pQEwwP4dZtF0ciy8YktcnlUqYw',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-26',
       festivals: [
@@ -52,13 +52,13 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: '2',
 
   CALLBACK_USERS: [
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oqFe55gFtA5RvqcerkejZjyzhim0',
     }
   ],
 
