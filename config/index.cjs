@@ -9,10 +9,10 @@ const USER_CONFIG = {
   // 请将以下代码按照图示粘贴到对应位置
   USE_PASSAGE: 'push-deer',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxa6138dcfcc70f412',
+  //APP_ID: 'wxa6138dcfcc70f412',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'a97fdfbee9de80e5757143f34d4f92ae',
+  //APP_SECRET: 'a97fdfbee9de80e5757143f34d4f92ae',
 
   PROVINCE: '北京',
   CITY: '西城区',
